@@ -1,0 +1,8 @@
+C:\Users\ilkin\source\repos\DataContainersDz\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\ilkin\source\repos\DataContainersDz\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\ilkin\source\repos\DataContainersDz\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\ilkin\source\repos\DataContainersDz\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\DataContainersDz\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\DataContainersDz\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\ilkin\source\repos\DataContainersDz\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\ilkin\source\repos\DataContainersDz\BinaryTree\obj\Debug\BinaryTree.exe.config

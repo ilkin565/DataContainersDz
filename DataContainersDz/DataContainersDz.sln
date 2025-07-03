@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialChecked", "FactorialChecked\FactorialChecked.csproj", "{B6841C59-244A-4C0C-B28E-1EB822F75BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{E02AC42B-8C20-4047-A528-F024C9381BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6841C59-244A-4C0C-B28E-1EB822F75BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6841C59-244A-4C0C-B28E-1EB822F75BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6841C59-244A-4C0C-B28E-1EB822F75BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6841C59-244A-4C0C-B28E-1EB822F75BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02AC42B-8C20-4047-A528-F024C9381BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02AC42B-8C20-4047-A528-F024C9381BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02AC42B-8C20-4047-A528-F024C9381BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02AC42B-8C20-4047-A528-F024C9381BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4BA48F-DFCF-4CD3-8745-E82E22BB5AC2}
+	EndGlobalSection
+EndGlobal
